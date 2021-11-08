@@ -1,4 +1,4 @@
-# City Bike Map
+# Citi Bike Station Map
 
 Purpose of this project is to use the Citi Bike API to get the status and location of every Citi Bike station in New York. 
 
