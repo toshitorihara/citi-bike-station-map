@@ -1,7 +1,6 @@
 # Citi Bike Station Map
 ![Image](Images/citibikelogo.jpg)<br>
-Purpose of this project is to use the Citi Bike API to get the status and location of every Citi Bike station in NYC.<br>
-[Link](https://toshitorihara.github.io/javascript-challenge/)
+Purpose of this project is to use the Citi Bike API to get the status and location of every [Citi Bike station in NYC](https://toshitorihara.github.io/javascript-challenge/)<br>
 
 # Instructions
 1. Use the [Citi Bike station information endpoint](https://gbfs.citibikenyc.com/gbfs/en/station_information.json) to get information about the station names and locations. 
